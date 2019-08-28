@@ -1,4 +1,4 @@
-# Exercise-Set-of-C 
+# ExerciseSetOfC
 This is an exercise set of C programming language for beginners. There are in total 38 basic questions inside and all of them were tested by me myself and executable under Visual Studio 2010. Answers of questions in the set are available for everyone unconditionally. Questions and answers are listed below:
 
 **No.01**
