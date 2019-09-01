@@ -1,5 +1,5 @@
 /*
-Question 23: Determine whether the number entered is prime 
+Question 23: Determine whether the number entered is prime
 */
 #include<stdio.h>
 void SS(long a)
@@ -24,7 +24,7 @@ void SS(long a)
 long main()
 {
 	int x;
-	printf("请输入一个整数:\n");
+	printf("脟毛脢盲脠毛脪禄赂枚脮没脢媒:\n");
 	scanf("%d",&x);
 	if(x<2)
 		printf("No\n");
