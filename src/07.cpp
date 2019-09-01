@@ -1,5 +1,5 @@
 /*
-Question 07: Find all pairs of numbers within 100, such as 24*63=42*36
+Question 07: Find all such number pairs like 24*63 = 42*36 within 100
 */
 #include<stdio.h>
 int main(void)
