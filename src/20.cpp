@@ -1,5 +1,5 @@
 /*
-Question 20: Call the function to find all cubes and three digits for itself 
+Question 20: Find all 3-digit numbers ABC where A^3+B^3+C^3 = ABC
 */
 #include<stdio.h>
 int cube(int x)
