@@ -1,5 +1,5 @@
 /*
-Question 25: Determine whether the input number satisfies the sum of the four powers of each digit equals itself 
+Question 25: Determine whether the input number ABCD satisfies A^4 + B^4 + C^4 + D^4 = ABCD
 */
 #include<stdio.h>
 int FT(int a)
@@ -20,7 +20,7 @@ void MGH(long b)
 int main()
 {
 	int c;
-	printf("请输入一个四位数:\n");
+	printf("脟毛脢盲脠毛脪禄赂枚脣脛脦禄脢媒:\n");
 	scanf("%d",&c);
 	MGH(c);
 	return 0;
