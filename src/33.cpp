@@ -1,5 +1,5 @@
 /*
-Question 33: Finding the Root of Function F(x)=x^3-5x^2-10x+16 by Chord Division Method 
+Question 33: Find the root of function F(x)=x^3-5x^2-10x+16 by chord division method
 */
 #include<stdio.h>
 double f(double x)
