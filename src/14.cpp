@@ -1,5 +1,5 @@
 /*
-Question 14: Encryption, add 5, take 10 residues, move right to three places in reverse order 
+Question 14: Calculate encryption of X, right shift the residues of X+5 THREE bits and reverse its order
 */
 #include<stdio.h>
 int main()
