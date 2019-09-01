@@ -1,5 +1,5 @@
 /*
-Question 02: Finding the sum of the first N factorial
+Question 02: Find the sum of the first N factorial
 */
 #include<stdio.h.>
 int main()
