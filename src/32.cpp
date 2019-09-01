@@ -1,5 +1,5 @@
 /*
-Question 32: Exchange Two Numbers of Input 
+Question 32: Exchange two input numbers
 */
 #include<stdio.h>
 int main()
