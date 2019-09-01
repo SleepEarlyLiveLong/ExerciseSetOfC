@@ -1,5 +1,5 @@
 /*
-Question 16: Find the sum of the diagonal elements of a matrix and the sum of the surrounding elements
+Question 16: Find the sum of the diagonal elements of a matrix and the sum of the surrounding elements A
 */
 #include<stdio.h>
 #define N 3
