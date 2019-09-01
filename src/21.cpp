@@ -1,5 +1,5 @@
 /*
-Question 21: Print the sum of all approximations except itself in a certain range equal to all of its own
+Question 21: Print all digits who is equal t0 the sum of its divisor except itself
 */
 #include<stdio.h>
 int WB(int n)
