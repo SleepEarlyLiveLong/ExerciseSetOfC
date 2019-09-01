@@ -1,5 +1,5 @@
 /*
-Question 31: Using Recursive Method and Taylor Formula to Find e^x 
+Question 31: Use recursive method and Taylor Formula to calculate e^x
 */
 #include<stdio.h>
 double XS(double x,int b);
