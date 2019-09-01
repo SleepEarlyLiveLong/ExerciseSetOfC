@@ -1,5 +1,5 @@
 /*
-Question 04: Print the first N terms 1, 1, 2, 3 in the Fibonacci sequence.
+Question 04: Print the first N terms 1, 1, 2, 3 in the Fibonacci sequence
 */
 #include<stdio.h>
 int main()
