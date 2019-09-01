@@ -1,18 +1,18 @@
 /*
-Question 34: Sorting by Direct Insertion Sorting 
+Question 34: Sort by direct insertion sorting method
 */
 #include<stdio.h>
-void Insert(int x,int a[],int len) //¶¨Òå²åÈëº¯Êı
+void Insert(int x,int a[],int len) //å®šä¹‰æ’å…¥å‡½æ•°
 {
 	a[len+1]=x;
 }
-void Sort(int a[],int len) //¶¨ÒåÅÅĞòº¯Êı
+void Sort(int a[],int len) //å®šä¹‰æ’åºå‡½æ•°
 {
-	int b[10],i,j,m,temp; //ÅÅĞòÖ®Ç°µÄÊı×é
+	int b[10],i,j,m,temp; //æ’åºä¹‹å‰çš„æ•°ç»„
 	printf("please input ten numbers:");
 	for(i=0;i<=9;i++)
 		scanf("%d",&b[i]);
-	//Ã¿²åÈëÒ»¸öÊı¼´ÅÅĞò
+	//æ¯æ’å…¥ä¸€ä¸ªæ•°å³æ’åº
 	a[0]=b[0];
 	for(i=1;i<=9;i++)
 	{
@@ -28,11 +28,11 @@ void Sort(int a[],int len) //¶¨ÒåÅÅĞòº¯Êı
 				}
 		}
 	}
-	//´òÓ¡ÅÅĞòÖ®ºóµÄÊı×é
+	//æ‰“å°æ’åºä¹‹åçš„æ•°ç»„
 	for(i=0;i<len;i++)
 		printf("%d ",a[i]);
 }
-//Ö÷º¯Êı
+//ä¸»å‡½æ•°
 int main(void)
 {
 	int a[10];
