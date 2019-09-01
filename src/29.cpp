@@ -1,5 +1,5 @@
 /*
-Question 29: Using Recursive Method to Calculate the Product of Input Numbers 
+Question 29: Use recursive method to calculate the product of input numbers
 */
 #include<stdio.h>
 double XJ(double a[],int n)
