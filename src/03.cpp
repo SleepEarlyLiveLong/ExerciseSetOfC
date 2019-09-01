@@ -1,5 +1,5 @@
 /*
-Question 03, Calculate the sum of the first N terms of 1+3/2+5/3+8/5... 
+Question 03: Calculate the sum of the first N terms of 1+3/2+5/3+8/5...
 */
 #include<stdio.h>
 int main()
