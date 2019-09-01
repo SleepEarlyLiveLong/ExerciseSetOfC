@@ -1,14 +1,14 @@
 /*
-Question 19: Screen out strings from I to N in a string 
+Question 19: Screen out strings from i to N in a string
 */
 #include<stdio.h>
 void main()
 {
 	int i,n,count=1;
 	char x[100];
-	printf("ÇëÊäÈë×Ö·û´®:\n");
+	printf("è¯·è¾“å…¥å­—ç¬¦ä¸²:\n");
 	gets(x);
-	printf("ÇëÊäÈë i ºÍ n µÄÖµ\n");
+	printf("è¯·è¾“å…¥ i å’Œ n çš„å€¼\n");
 	scanf("%d%d",&i,&n);
 	while(count<=n)
 	{
