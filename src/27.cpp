@@ -1,5 +1,5 @@
 /*
-Question 27: Calculating N-th power of M by recursive method 
+Question 27: Calculating N-th power of M by recursive method
 */
 #include<stdio.h>
 long int GCF(int m,int n);
