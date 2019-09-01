@@ -1,5 +1,5 @@
 /*
-Question 30: Using Recursive Method to Find the Maximum of a Group of Numbers 
+Question 30: Use recursive method to find the maximum of a group of numbers
 */
 #include<stdio.h>
 double Max(double a[],int i)
