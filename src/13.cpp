@@ -1,12 +1,12 @@
 /*
-Question 13: Number of words counted, initial letter capitalized
+Question 13: Count number of words and convert the first letter of each word to upper case
 */
 #include<stdio.h>
 void main()
 {
 	char s[50],c;
 	int i,num=0,j=0;
-	printf("ÇëÊäÈëÒ»ĞĞÓ¢ÎÄ£º\n");
+	printf("è¯·è¾“å…¥ä¸€è¡Œè‹±æ–‡ï¼š\n");
 	gets(s);
 	for(i=0;(c=s[i])!='\0'&&i<50;i++)
 	{
@@ -19,6 +19,6 @@ void main()
 			num++;
 		}
 	}
-	printf ("¹²ÓĞ%d ¸öµ¥´Ê: \n",num);
-	printf("¸ÄĞ´ºóµÄÓ¢ÎÄÎÄ±¾Îª: \n%s\n",s);
+	printf ("å…±æœ‰%d ä¸ªå•è¯: \n",num);
+	printf("æ”¹å†™åçš„è‹±æ–‡æ–‡æœ¬ä¸º: \n%s\n",s);
 }
