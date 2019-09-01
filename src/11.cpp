@@ -1,5 +1,5 @@
 /*
-Question 11: Put out the first k terms of Fibonacci sequence and calculate their sum
+Question 11: Print the first k terms of Fibonacci sequence and calculate their sum
 */
 #include<stdio.h>
 int main()
