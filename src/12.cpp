@@ -1,5 +1,5 @@
 /*
-Question 12: One-Dimensional Array Solves the Joseph's Ring-out Problem
+Question 12: Use one-dimensional array to solves the Joseph's Ring-out Problem
 */
 #include<stdio.h>
 #define N 39
