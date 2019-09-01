@@ -1,5 +1,5 @@
 /*
-Question 22: Print all pairs of approximations in a range equal to the sum of each other's pairs except for itself 
+Question 22: Find all data pairs A and B where A is equal to the sum of all B's divisor except B itself
 */
 #include<stdio.h>
 int XS(long x)
