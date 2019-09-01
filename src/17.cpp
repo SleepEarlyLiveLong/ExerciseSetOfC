@@ -1,5 +1,5 @@
 /*
-Question 17: matrix multiplication
+Question 17: Two-dimension matrix multiplication
 */
 #include<stdio.h>
 #define N 4
@@ -14,7 +14,7 @@ int main()
 		{
 			for(j=0;j<N;j++)
 			{
-				c[i][m]+=a[i][j]*b[j][m];//ºËÐÄ²½Öè
+				c[i][m]+=a[i][j]*b[j][m];//ÂºÃ‹ÃÃ„Â²Â½Ã–Ã¨
 			}
 		}
 	}
