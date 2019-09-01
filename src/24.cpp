@@ -1,5 +1,5 @@
 /*
-question 24: sort the number of inputs from small to large and output 
+question 24: Sort the number of inputs from small to large and put them out
 */
 #include<stdio.h>
 #define n 5
