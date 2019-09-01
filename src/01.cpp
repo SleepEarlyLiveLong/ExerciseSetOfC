@@ -1,5 +1,5 @@
 /*
-Question 01: Finding the sum of the N-th power of sequence 2
+Question 01: Find the sum of the N-th power of sequence 2
 */
 #include<stdio.h>
 #include<math.h>
